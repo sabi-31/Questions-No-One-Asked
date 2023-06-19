@@ -1,4 +1,4 @@
-So here's the question:
+The question:
 
 Imagine there is text box you have to fill with random characters using your keyboard. The goal is to fill it in as little time as possible, without pasting any external text. Here are some obvious conclusions:
 - Firstly I can just smash random letters on the keyboard, but it costs me time since I have to navigate between keys with my fingers.
